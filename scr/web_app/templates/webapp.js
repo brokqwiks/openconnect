@@ -193,3 +193,10 @@ class OpenConnect {
         return this.getCookie("OpenAddress");
     }
 }
+
+const walletUrl = "http://127.0.0.2:8000/connection";
+const connect_data = {
+    "appUrl": "127.0.0.1:8000",
+};
+const openConnect = new OpenConnect(walletUrl, connect_data, "OpenConnect");
+openConnect.updateConnectBtn();
