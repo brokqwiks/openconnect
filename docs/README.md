@@ -1,2 +1,2 @@
-# OpenConnect ![OpenImg](assets/img//opencoin_img.jpg)
+# OpenConnect ![OpenImg](assets/img/opencoin_img.jpg)
 
